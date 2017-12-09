@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Raye7 Feen Would like to access your current location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Raye7 Feen Would like to access your current location</string>
 </dict>
 </plist>

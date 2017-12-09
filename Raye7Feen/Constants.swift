@@ -9,5 +9,6 @@
 import UIKit
 
 class Constants: NSObject {
-
+    static let API_KEY = "AIzaSyBE7LAIGNaX8ObHk-BJETCRpVsnOah86w8"
+    
 }

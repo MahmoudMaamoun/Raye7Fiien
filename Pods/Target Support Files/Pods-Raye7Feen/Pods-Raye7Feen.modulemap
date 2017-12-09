@@ -1,0 +1,6 @@
+framework module Pods_Raye7Feen {
+  umbrella header "Pods-Raye7Feen-umbrella.h"
+
+  export *
+  module * { export * }
+}
